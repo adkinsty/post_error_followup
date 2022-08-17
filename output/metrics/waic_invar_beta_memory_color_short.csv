@@ -1,0 +1,13 @@
+,0
+waic,-3348.8619892200845
+waic_se,60.37420163478627
+p_waic,131.8466702705591
+n_samples,8000
+n_data_points,10578
+warning,True
+waic_i,"<xarray.DataArray 'waic_i' (log_lik_dim_0: 10578)>
+array([-0.25716552, -0.08527164, -0.15667507, ..., -0.0886579 ,
+       -0.10499215, -0.15772431])
+Coordinates:
+  * log_lik_dim_0  (log_lik_dim_0) int64 0 1 2 3 4 ... 10574 10575 10576 10577"
+waic_scale,log
