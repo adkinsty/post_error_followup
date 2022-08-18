@@ -110,9 +110,9 @@
     └── training.ipynb
 
 ## training.ipynb
-This notebook is used to fit the models
+used to fit the models
 ## inference.ipynb
-This notebook is used to evaluate and post-process the models
+used to evaluate and post-process the models
 ## input
 ### raw_data 
 data taken from dropbox, called `dat.csv` under each experiment subfolder
@@ -130,6 +130,6 @@ tables and figures of predicted behavior from group-level parameters
 ### metrics
 tables of goodness-of-fit metrics for each model (currently just WAIC)
 ## ref
-This directory contains the reference stan code file from dropbox used in the training notebook above. 
+reference stan code file from dropbox used in the training notebook above. 
 ## build
-This directory contains auto-generated cache files used to avoid recompiling reused models
+auto-generated cache files used to avoid recompiling reused models
