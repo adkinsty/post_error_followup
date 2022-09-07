@@ -1,0 +1,18 @@
+,0
+loo,-3322.0221968316255
+loo_se,60.5641080487482
+p_loo,120.87387711254951
+n_samples,8000
+n_data_points,10578
+warning,False
+loo_i,"<xarray.DataArray 'loo_i' (log_lik_dim_0: 10578)>
+array([-0.1879455 , -0.13681827, -0.16336847, ..., -0.09518365,
+       -0.10057441, -0.12643638])
+Coordinates:
+  * log_lik_dim_0  (log_lik_dim_0) int64 0 1 2 3 4 ... 10574 10575 10576 10577"
+pareto_k,"<xarray.DataArray 'pareto_shape' (log_lik_dim_0: 10578)>
+array([-0.00027437,  0.02112038, -0.01619539, ...,  0.0252728 ,
+        0.00072802, -0.06103949])
+Coordinates:
+  * log_lik_dim_0  (log_lik_dim_0) int64 0 1 2 3 4 ... 10574 10575 10576 10577"
+loo_scale,log
