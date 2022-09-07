@@ -26,5 +26,3 @@ tables and figures of predicted behavior from group-level parameters
 tables of goodness-of-fit metrics for each model (currently just WAIC)
 ## ref
 reference stan code file from dropbox used in the training notebook above. 
-## build
-auto-generated cache files used to avoid recompiling reused models
